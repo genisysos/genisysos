@@ -1,2 +1,2 @@
-# genisysos
+# genisysOS
 Python Kernel // genisysOS
